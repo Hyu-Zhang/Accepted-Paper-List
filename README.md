@@ -6,7 +6,7 @@ Update continuously the accepted papers from the top conferences in AI
 |:----:|:----:|
 |CVPR| https://openaccess.thecvf.com/CVPR2023?day=all|
 |ICCV| https://openaccess.thecvf.com/ICCV2023|
-|ACL| https://dblp.uni-trier.de/db/conf/acl/acl2023-1.html, https://dblp.uni-trier.de/db/conf/acl/acl2023-2.html|
+|ACL| https://dblp.uni-trier.de/db/conf/acl/acl2023-1.html</br>https://dblp.uni-trier.de/db/conf/acl/acl2023-2.html|
 |ICML| https://dblp.uni-trier.de/db/conf/icml/icml2023.html|
 |NeurIPS| |
 |KDD| https://dblp.uni-trier.de/db/conf/kdd/kdd2023.html|
